@@ -1,0 +1,6 @@
+tweepy
+pydantic[dotenv]
+mypy
+black
+jupyter
+pandas
